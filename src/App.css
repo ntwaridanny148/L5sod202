@@ -1,0 +1,29 @@
+body{
+  background-color: aqua;
+}
+
+.App{
+   font-family:'Courier New', Courier, monospace;
+  background-color:blue;
+  min-height: 200vh;
+color:rgb(239, 242, 232);
+min-width: 12vh;
+
+}
+nav{
+  background-color:blue;
+  margin: auto;
+  padding:1rem  2rem 3rem;
+  width: 300%;
+  height: 100px;
+}
+nav ul{
+   display:flex ;
+    gap: 2rem;
+    list-style: none;
+    padding:0px;
+    margin:0px;
+}
+.Regform{
+  text-align: center;
+}
